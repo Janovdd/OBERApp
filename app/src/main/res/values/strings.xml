@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">OBERApp</string>
+    <string name="title_activity_restaurants">RestaurantsActivity</string>
+</resources>
